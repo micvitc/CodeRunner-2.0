@@ -14,7 +14,7 @@ int main(){
             if(S[j] != S[S.size() - j - 1]) 
               final++;
         }
-        cout << abs(k-final) << endl;
+        cout << abs(K-final) << endl;
     }
     return 0;
 }
